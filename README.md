@@ -1,0 +1,2 @@
+# Simulated_data_with_noise
+Simulated data (or fake data) are non-realistic data that are generated to test tools for its features and performances, when real-world data isn't suitable or unavailable. Generating fake data helps understand the tool's limitations and allows for improvement. Here both homoscedastic noise (noise that is constant in our independent variables) and heteroscedastic noise (noise that varies in magnitude across our independent variables) are shown along with no noisy data.
